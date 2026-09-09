@@ -8,7 +8,7 @@ In particular, the following topics are covered:
 - Decentralized finance (DeFi) and organizations (DOA)
 - Mempool and data dissemination
 - Consensus and state-machine replication (Paxos)
-- Byzantine Fault-tolerance (PBFT)
+- Byzantine fault-tolerance (PBFT)
 - Conflict-free replicated data types (CRDTs)
 - Distributed ledgers (Proof-of-X)
 - Privacy in blockchain
