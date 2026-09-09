@@ -1,4 +1,4 @@
-# Blockchain and Decentralization Systems
+# Blockchain and Decentralization
 
 (🚧 Work in progress)
 
@@ -7,7 +7,7 @@ In particular, the following topics are covered:
 - Smart contracts
 - Decentralized finance (DeFi) and organizations (DOA)
 - Mempool and data dissemination
-- Consensus and state-Machine replication (Paxos)
+- Consensus and state-machine replication (Paxos)
 - Byzantine Fault-tolerance (PBFT)
 - Conflict-free replicated data types (CRDTs)
 - Distributed ledgers (Proof-of-X)
